@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xiaozidezhuiqiuzhe/hj5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 世有珍宝123
 Syntax highlighted code block
 
